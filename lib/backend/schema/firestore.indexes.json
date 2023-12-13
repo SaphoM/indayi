@@ -1,0 +1,48 @@
+{
+  "indexes": [
+    {
+      "collectionGroup": "Users",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "Accept",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "Gender",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "Ethnicity",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "ShirtSQ",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "UserType",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "Age",
+          "order": "ASCENDING"
+        }
+      ]
+    },
+    {
+      "collectionGroup": "Users",
+      "queryScope": "COLLECTION",
+      "fields": [
+        {
+          "fieldPath": "Accept",
+          "order": "ASCENDING"
+        },
+        {
+          "fieldPath": "CampaignList",
+          "arrayConfig": "CONTAINS"
+        }
+      ]
+    }
+  ]
+}

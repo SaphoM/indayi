@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "221404848840",
+    "project_id": "indayi-new",
+    "storage_bucket": "indayi-new.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:221404848840:android:96b8c5d09611fcd566bbfd",
+        "android_client_info": {
+          "package_name": "com.mycompany.indayipms"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1eYIOTotodiH5OZla7l3yM6sVDtNfW8c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
